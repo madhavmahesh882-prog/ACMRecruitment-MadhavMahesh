@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-# First line edited by feature/update-readme branch
-=======
-# First line edited differently by feature/readme-update branch
->>>>>>> feature/readme-update
+# ACM Recruitment Repository
+
+This project tracks practice tasks for Git branching and merge conflict resolution.
+
+- Initial setup complete
+- Branching task completed
+- Conflict warrior merge resolved cleanly
